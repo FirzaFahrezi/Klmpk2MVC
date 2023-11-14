@@ -5,6 +5,6 @@ Nama Kelompok 2 MVC :
 2. Fadit Al Fauzan                 | E1E121002
 3. Wa Ode Azzahra Astiani Hasiba   | E1E121014
 4. Wahyu Nahda Putra               | E1E121016
-5. La Ode Muhammad Firza Fahrezi   | E1E121030
+5. Laode Muhammad Firza Fahrezi    | E1E121030
 6. Annisa Az'zahra Tarimana        | E1E121050
 7. Zahra Maharani Aulia            | E1E121098
